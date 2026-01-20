@@ -1,0 +1,1 @@
+print(int(35.88)) #answer: 35
